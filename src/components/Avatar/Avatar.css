@@ -1,0 +1,14 @@
+#tony-avatar {
+	width: 100%;
+	height: 100%;
+	/*object-fit: cover;*/
+}
+
+#vid {
+	width: 100%;
+	max-height: 345px;
+}
+
+#avatar {
+	height: 345px;
+}
